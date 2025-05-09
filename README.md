@@ -1,6 +1,6 @@
 # Reforçando a lógica de programação com JavaScript 
 
-Este repositório contém uma série de exercícios de JavaScript que interagem com o usuário através do console, utilizando a biblioteca `prompt-async`.
+Este repositório contém uma série de exercícios de JavaScript que interagem com o usuário através do console, utilizando a biblioteca `prompt-sync`.
 
 ## Tecnologias Utilizadas
 
